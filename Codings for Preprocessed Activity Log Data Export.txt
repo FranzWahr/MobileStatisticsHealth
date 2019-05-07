@@ -1,0 +1,10 @@
+statusId | label
+
+20|cycle
+21|cycle
+22|Run
+23|Run
+24|Run
+25|Run
+26|cycle
+27|cycle
