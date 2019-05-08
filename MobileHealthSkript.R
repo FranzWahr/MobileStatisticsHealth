@@ -8,6 +8,9 @@ curve(dnorm(x), add=T)
 getwd()
 
 my.data <- read.table(header=TRUE, "Preprocessed Activity Log Data Export.txt", sep="|")
+my.data
 summary(my.data)
+head(my.data)
+my.data$value
 
 # TODO devide walking cand cyling data groups
